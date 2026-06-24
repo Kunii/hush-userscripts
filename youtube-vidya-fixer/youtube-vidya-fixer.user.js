@@ -9,7 +9,7 @@
     "use strict";
 
     var cSpeed = 1.0;
-    var speedIntervalAdjustment = 0.5;
+    var speedIntervalAdjustment = 0.25;
     var lDate = Date.now();
     var divID = "movie_player";
 
